@@ -12,6 +12,42 @@ Competitors' final score will be their cumulative score consisting of their top 
 
 |Roguemon Split|Firered Duo-Murphmon|
 |-|-|
+|Lab|
+|Forest|
+|Rival 2|
+|Brock|
+|Route 3| 
+|Mt. Moon|
+|Mt. Moon Full Clear|
+|Rival 3|
+|Route 24/25|
+|Misty|
+|Route 6/11|
+|Rival 4|
+|Lt. Surge|
+|Route 9/10 North|
+|Rock Tunnel/Route 10 South|
+|Rival 5|
+|Route 8|
+|Erika|
+|Game Corner|
+|Pokemon Tower|
+|Cycling Road/18/19|
+|Koga|
+|Safari (Effectively 2 points for Koga)|
+|Silph Co|
+|Silph Co Full Clear|
+|Sabrina|
+|Route 21/Mansion|
+|Blaine|
+|Giovanni|
+|Rival 7|
+|Victory Road Full Clear|
+|Lorelei|
+|Bruno|
+|Agatha(2)|
+|Lance(2)|
+|Champ(3)|
 
 There will be no bonus points during playoffs
 
@@ -35,34 +71,32 @@ The Murphmon draft will similarly draft 3 slots from a pool of 18 "tune-ups" eac
 
 |TUNE-UPS|
 |-|
-|1.	Martyr – Use one surviving mon til Safari
-2.	Martyr 2 – Use one surviving mon post-safari until end of run
-3.	Gym Buddy – Brockbuddy for all gyms
-4.	Mulligan Token – Retry Battle once Upon fainting (X amount of times)
-5.	Shopaholic – Buy X amount of items per shop per run
-6.	Clone – May use 2 of the same mon
-7.	Hades Token – If fainted, you may continue the run by going straight to the next gym (X amount of times)
-8.	BST Booster – Allows the use of 600 BST Pokemon including legends
-9.	Double Dip – 1 dungeon re-entry per seed
-10.	Going rogue – use heals outside of battle under X circumstances/times
-11.	Flutist - use of flutes
-12.	Migration – Can re-rando early game
-13.	Migration 2 – can re-rando safari
-14.	Favoritism – Favorites earn additional points
-15.	Brock Bully – earn 1 permanent point per Brock beater to total score (non-scoring runs only)
-16.	Hunter – May kill 2 wilds with each pivot
-17.	Double Discount – Higher BST threshold for double points
-18.	Supporter – May use all illegal moves that do not do direct damage but, may not use direct damage moves. Assist and spore?
-19.	Powerlifter – Legal Pure/Huge Power pre-safari.|
-
-
+|	Martyr |Use one surviving mon til Safari|
+|	Martyr 2 | Use one surviving mon post-safari until end of run|
+|	Gym Buddy | Brockbuddy for all gyms|
+|	Mulligan Token | Retry Battle once Upon fainting (X amount of times)|
+|	Shopaholic | Buy X amount of items per shop per run|
+|	Clone | May use 2 of the same mon|
+|	Hades Token | If fainted, you may continue the run by going straight to the next gym (X amount of times)|
+|	BST Booster | Allows the use of 600 BST Pokemon including legends|
+|	Double Dip | 1 dungeon re-entry per seed|
+|	Going rogue | use heals outside of battle under X circumstances/times|
+|	Flutist | use of flutes|
+|	Migration | Can re-rando early game|
+|	Migration 2 | can re-rando safari|
+|	Favoritism | Favorites earn additional points|
+|	Brock Bully | earn 1 permanent point per Brock beater to total score (non-scoring runs only)|
+|	Hunter | May kill 2 wilds with each pivot|
+|	Double Discount | Higher BST threshold for double points|
+|	Supporter | May use all illegal moves that do not do direct damage but, may not use direct damage moves. Assist and spore?|
+|	Powerlifter | Legal Pure/Huge Power pre-safari.|
 
 ## Awards
 
-Title of the Murphleague 2025 Champion. Engraved Trophy, 5 Charizard Cards. Custom emotes from kipoterp.
+1st place will receive the title of the Murphleague 2026 Champion, an Engraved Trophy (similar to the one pictured), 2 Custom emotes from kipoterp, and $150 towards a charity of choice. 2nd and 3rd place will each earn $25 towards their respective charities.
 
-<img src="https://github.com/BigMurph619/Murphleague-2025-Championship/blob/main/murphleague%20trophy.jpg" width="300" height="350"> <img src="https://github.com/BigMurph619/Murphleague-2025-Championship/blob/main/charizard%20cards.png" width="300" height="300">
+<img src="https://github.com/BigMurph619/Murphleague-2025-Championship/blob/main/murphleague%20trophy.jpg" width="300" height="350">
 
-Additional awards provided from the [Pledge Page](https://discord.gg/cqjd4ksZ).
+Additional awards may be provided from the [Pledge Page](https://discord.gg/cqjd4ksZ).
 
 Good Luck Challengers.
