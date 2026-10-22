@@ -21,25 +21,40 @@ Competitors will do a 2-part linear draft based on their final standings from th
 
 Each type will be available to be drafted twice however, a competitor must have 3 unique types. 12 competitors x 3 types = 36...18 total types x available types = 36. The draft is LINEAR (not snake) meaning higher placement has pure advantage. Once the 12th competitor drafts, the #1 seed kicks off round 2 drafting again.
 
-|Competitor|Type 1|Type 2|Type 3
+|Competitor|Type 1|Type 2|Type 3|
 |-|-|-|-|
 |Zoga|Bug|Dragon|Ice|
 
-## Blessings and Banes
+## Duo-Murphmon Draft
 
-Competitors will each draft both a "Blessing" and a "Bane" that will apply for the entirety of the playoffs. Draft order will be decided by competitors' final standings from the Murphleague regular season with higher seeds selecting first. The competitors must choose from the below options.
+The Murphmon draft will similarly draft 3 slots from a pool of 18 "tune-ups" each available to be drafted twice. Once again, a competitor may not draft the same tune-up twice. The 18 tune-up pool can be found below 
 
-|BLESSINGS|BANES|
-|-|-|
-|MULLIGAN TOKEN - "Retry the Battle" and continue the run ONCE during each format | ROOKIE MISTAKE - On the first turn of combat against the FIRST trainer after the rival fight you must throw a ball.|
-|BATTLE PRO - You may equip any one non-consumable held item (Healing items not allowed). You must commit to the item you choose. | VAMPYRIC TOUCH - If you pick up a HP healing non-consumable held item (leftovers, shell bell) you must discard one HP heal that heals less than 50% of your current max HP, if you have one. |
-| SHOPAHOLIC - You may purchase one item from any shop once per seed. | NO GUARANTEES - Must have one non 100% accurate in your moveset at earliest availability (cant miss moves count as 100 percent accurate) |
-| GIANT SLAYER - If your rival's ace is higher BST, you may purchase 1 healing item from the next accessible mart each time you defeat it | SIREN SONG - You cannot use items while an opponent has a water type pokemon on the field, you must attack |
-| ACE - beating a gym without taking damage allows you to purchase the smallest heal in that city. | GYM FEES - Must drop one hp or status healing item each time you enter a gym (if you have one) |
-| HADES TOKEN (Once per format) - If you die outside of a gym you may continue the run only by going directly into the next gym and winning. You may only fight mandatories en route to the next gym. | TRACKER LACKER - You must keep the tracker on an unhelpful page throughout Boss fights |
-| BST BOOSTER - Allows a raise in allowed BST Pokemon to 600 (Legends/mythics still banned for non-NATDEX formats.) | DECAY - Must toss 1 HP heal after defeating each gym leader (if you have one). |
-| DOUBLE DIP - 1 Non-Gym Dungeon re-entry per seed | IMPULSE - Use rare candies, pp ups/maxes, TMs, and vitamins right away or toss (Murphmon exempt pre-pivot) |
-| GOING ROGUE - Once per seed you may heal outside of battle (hp, status, pp) | FRUIT ALLERGY - You may not HOLD any berries |
+|Competitor|Tune-up 1|Tune-up 2|Tune-up 3|
+|-|-|-|-|
+|Zoga|BST Booster|Mulligan Token|Clone|
+
+|TUNE-UPS|
+|-|
+|1.	Martyr – Use one surviving mon til Safari
+2.	Martyr 2 – Use one surviving mon post-safari until end of run
+3.	Gym Buddy – Brockbuddy for all gyms
+4.	Mulligan Token – Retry Battle once Upon fainting (X amount of times)
+5.	Shopaholic – Buy X amount of items per shop per run
+6.	Clone – May use 2 of the same mon
+7.	Hades Token – If fainted, you may continue the run by going straight to the next gym (X amount of times)
+8.	BST Booster – Allows the use of 600 BST Pokemon including legends
+9.	Double Dip – 1 dungeon re-entry per seed
+10.	Going rogue – use heals outside of battle under X circumstances/times
+11.	Flutist - use of flutes
+12.	Migration – Can re-rando early game
+13.	Migration 2 – can re-rando safari
+14.	Favoritism – Favorites earn additional points
+15.	Brock Bully – earn 1 permanent point per Brock beater to total score (non-scoring runs only)
+16.	Hunter – May kill 2 wilds with each pivot
+17.	Double Discount – Higher BST threshold for double points
+18.	Supporter – May use all illegal moves that do not do direct damage but, may not use direct damage moves. Assist and spore?
+19.	Powerlifter – Legal Pure/Huge Power pre-safari.|
+
 
 
 ## Awards
