@@ -1,47 +1,29 @@
- # Murphleague-2025-Championship
+ # Murphleague-2026-Championship
 
-The Murphleague 2025 Championship will be decided by a 3-part open tournament series hosted by [BigMurph619](https://www.twitch.tv/bigmurph619). The playoffs will be held from November 7th Midnight PST - November 24th Midnight PST. The breakdown will be as follows:
+The Murphleague 2026 Championship will be decided by a 2-part open tournament series hosted by [BigMurph619](https://www.twitch.tv/bigmurph619). The playoffs will be held from December ?? 11:59 PM Eastern - December 24th 11:59 PM Eastern. The breakdown will be as follows:
 
--40 Seeds of [Emerald NATDEX Duomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/Emerald-Monomon#NATDEX)
+-75 Seeds of Roguemon Split (25 seeds each across 3 types)
 
--50 Seeds of [Heartgold Murphmon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/HGSS-Murphmon)
+-75 Seeds of Firered Murphmon Doubles
 
--60 Seeds of [Firered Monomon](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/FireRed-Monomon)
-
-Competitors' final score will be their cumulative score consisting of their top score from from each mode. (Best NATDEX Emerald Duomon + Best Heartgold Murphmon + Best Firered Monomon). Gamemode seeds must be completed in the order above though competitors will not be required to complete all seeds of each game mode if they are satisfied with their scores and would like more time for the other games.
+Competitors' final score will be their cumulative score consisting of their top 3 scores from from each mode. (Type 1 Best Score + Type 2 Best Score + Type 3 Best Score + Murphmon #1 Score + Murphmon #2 Score + Murphmon #3 score). Roguemon runs must be completed BEFORE attempting your first Murphmon seeds. You do not HAVE to complete all 75 Roguemon seeds but you may not return once you begin Murphmon seeds.
 
 ## Scoring Breakdown per mode:
 
-|Emerald NATDEX Duomon|Heartgold Murphmon|Firered Monomon|
-|-|-|-|
-|Roxanne|Faulkner|Brock (2)|
-|Brawley (2)|Slowpoke Exec|Mt. Moon Exit|
-|Cycle Road Rival|Bugsy|Misty|
-|Wattson|Whitney|Surge|
-|Mt. Chimney Maxie|Morty (3)|Rock Tunnel Exit|
-|Flannery|Chuck|Gio Hideout(2)|
-|Dad (2)|Jasmine|Erika|
-|Winona|Exec Arianna|Koga|
-|Lilycove Rival|Pryce|Gio Silph|
-|Magma Hideout Maxie|Archer|Sabrina|
-|Tate and Liza|Clair|Blaine|
-|Maxie Tandem Fight|VR Rival|Gio|
-|Archie|Will|Lorelei|
-|Juan|Koga|Bruno|
-|Wally|Bruno|Agatha|
-|Sidney|Karen|Lance (2)|
-|Phoebe|Lance (3)|Champ (3)|
-|Glacia|Brock|N/A|
-|Drake|Misty|N/A|
-|Wallace(3)|Surge|N/A|
-|Steven(3)|Erika|N/A|
-|N/A|Janine|N/A|
-|N/A|Sabrina|N/A|
-|N/A|Blaine|N/A|
-|N/A|Blue|N/A|
-|N/A|Red (3)|N/A|
+|Roguemon Split|Firered Duo-Murphmon|
+|-|-|
 
 There will be no bonus points during playoffs
+
+Competitors will do a 2-part linear draft based on their final standings from the Murphleague regular season. Part 1 Roguemon Split will draft 3 types per competitor while part 2 will draft 3 "tune-ups" for the Murphmon portion.
+
+## Roguemon Split Draft
+
+Each type will be available to be drafted twice however, a competitor must have 3 unique types. 12 competitors x 3 types = 36...18 total types x available types = 36. The draft is LINEAR (not snake) meaning higher placement has pure advantage. Once the 12th competitor drafts, the #1 seed kicks off round 2 drafting again.
+
+|Competitor|Type 1|Type 2|Type 3
+|-|-|-|-|
+|Zoga|Bug|Dragon|Ice|
 
 ## Blessings and Banes
 
