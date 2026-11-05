@@ -10,8 +10,8 @@ Competitors' final score will be their cumulative score consisting of their top 
 
 ## Scoring Breakdown per mode:
 
-|Roguemon Split|Firered Duo-Murphmon|
-|-|-|
+|Roguemon Split|
+|-|
 |Lab|
 |Forest|
 |Rival 2|
@@ -48,6 +48,44 @@ Competitors' final score will be their cumulative score consisting of their top 
 |Agatha(2)|
 |Lance(2)|
 |Champ(3)|
+
+
+|Firered Duo-Murphmon|
+|-|
+| Lab                       |
+| Rival #2                  |
+| Brock (3)                 |
+| Mt. Moon Entry            | 
+| Mt. Moon Exit             | 
+| Bridge Rival              | 
+| Rescue Bill               |
+| Misty                     |
+| SS Anne Rival             |
+| SS Anne Full Clear (2)    |
+| Lt. Surge                 |
+| Exit Rock Tunnel (2)      |
+| Defeat Gio in Hideout (2) |
+| Tower Rival               |
+| Rescue Fuji               |
+| Erika (2)                 |
+| Level up pivot 2 levels   |
+| Cycling Road Full Clear * |
+| Koga Attempt              |
+| Koga Defeat (2)           |
+| Dojo                      |
+| Silph Rival               |
+| Silph Gio                 |
+| Silph Full Clear          |
+| Sabrina                   |
+| Blaine                    |
+| Complete Sevii quest      |
+| Gio                       |
+| Pre-VR Rival              |
+| Lorelei                   |
+| Bruno                     |
+| Agatha (2)                |
+| Lance (2)                 |
+| Champ (3)                 |
 
 There will be no bonus points during playoffs
 
