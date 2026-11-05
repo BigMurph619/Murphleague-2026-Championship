@@ -10,82 +10,82 @@ Competitors' final score will be their cumulative score consisting of their top 
 
 ## Scoring Breakdown per mode:
 
-|Roguemon Split|
-|-|
+|Roguemon Split|Point Guide|
+|-|-|
 |Lab|
 |Forest|
 |Rival 2|
 |Brock|
-|Route 3| 
+|Route 3| 5|
 |Mt. Moon|
 |Mt. Moon Full Clear|
 |Rival 3|
 |Route 24/25|
-|Misty|
+|Misty|10|
 |Route 6/11|
 |Rival 4|
 |Lt. Surge|
 |Route 9/10 North|
-|Rock Tunnel/Route 10 South|
+|Rock Tunnel/Route 10 South|15|
 |Rival 5|
 |Route 8|
 |Erika|
 |Game Corner|
-|Pokemon Tower|
+|Pokemon Tower|20|
 |Cycling Road/18/19|
 |Koga|
 |Safari (Effectively 2 points for Koga)|
 |Silph Co|
-|Silph Co Full Clear|
+|Silph Co Full Clear|25|
 |Sabrina|
 |Route 21/Mansion|
 |Blaine|
 |Giovanni|
-|Rival 7|
+|Rival 7|30|
 |Victory Road Full Clear|
 |Lorelei|
 |Bruno|
-|Agatha(2)|
+|Agatha(2)|35|
 |Lance(2)|
-|Champ(3)|
+|Champ(3)|40|
 
 
-|Firered Duo-Murphmon|
-|-|
+|Firered Duo-Murphmon|Point Guide|
+|-|-|
 | Lab                       |
 | Rival #2                  |
-| Brock (3)                 |
+| Brock (3)                 |5|
 | Mt. Moon Entry            | 
 | Mt. Moon Exit             | 
 | Bridge Rival              | 
 | Rescue Bill               |
-| Misty                     |
+| Misty                     |10|
 | SS Anne Rival             |
 | SS Anne Full Clear (2)    |
 | Lt. Surge                 |
 | Exit Rock Tunnel (2)      |
 | Defeat Gio in Hideout (2) |
 | Tower Rival               |
-| Rescue Fuji               |
+| Rescue Fuji               |20|
 | Erika (2)                 |
 | Level up pivot 2 levels   |
 | Cycling Road Full Clear * |
-| Koga Attempt              |
+| Koga Attempt              |25|
 | Koga Defeat (2)           |
 | Dojo                      |
 | Silph Rival               |
-| Silph Gio                 |
+| Silph Gio                 |30|
 | Silph Full Clear          |
 | Sabrina                   |
 | Blaine                    |
 | Complete Sevii quest      |
-| Gio                       |
+| Gio                       |35|
 | Pre-VR Rival              |
 | Lorelei                   |
 | Bruno                     |
-| Agatha (2)                |
+| Agatha (2)                |40|
 | Lance (2)                 |
-| Champ (3)                 |
+| Champ (3)                 |45|
 
 There will be no bonus points during playoffs
 
