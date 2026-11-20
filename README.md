@@ -107,27 +107,21 @@ The Murphmon draft will similarly draft 3 slots from a pool of 18 "tune-ups" eac
 |-|-|-|-|
 |Zoga|BST Booster|Mulligan Token|Clone|
 
-|TUNE-UPS|
-|-|
-|	Martyr |Use one surviving mon til Safari|
-|	Martyr 2 | Use one surviving mon post-safari until end of run|
-|	Gym Buddy | Brockbuddy for all gyms|
-|	Mulligan Token | Retry Battle once Upon fainting (X amount of times)|
-|	Shopaholic | Buy X amount of items per shop per run|
-|	Clone | May use 2 of the same mon|
-|	Hades Token | If fainted, you may continue the run by going straight to the next gym (X amount of times)|
-|	BST Booster | Allows the use of 600 BST Pokemon including legends|
-|	Double Dip | 1 dungeon re-entry per seed|
-|	Going rogue | use heals outside of battle under X circumstances/times|
-|	Flutist | use of flutes|
-|	Migration | Can re-rando early game|
-|	Migration 2 | can re-rando safari|
-|	Favoritism | Favorites earn additional points|
-|	Brock Bully | earn 1 permanent point per Brock beater to total score (non-scoring runs only)|
-|	Hunter | May kill 2 wilds with each pivot|
-|	Double Discount | Higher BST threshold for double points|
-|	Supporter | May use all illegal moves that do not do direct damage but, may not use direct damage moves. Assist and spore?|
-|	Powerlifter | Legal Pure/Huge Power pre-safari.|
+|TUNE-UPS|Description|
+|-|-|
+|Martyr 1 | If one of your Pokemon faints, you may continue to run your surviving Pokemon alone until Safari (It must learn cut if needed to progress through the game). Carry ONLY your surviving Pokemon until safari.|
+|Mulligan Tokens | Retry Battle once upon fainting. May not be used twice on the same run. Must keep visual counter on stream. (3 times) |
+|Clone | May use 2 of the same Pokemon allowed pre-safari and post-safari. Does NOT change pivoting rules.|
+|BST Booster | Allows the use of 600 BST Pokemon including legends.|
+|Going rogue | May heal outside of battle once and caves are no longer dungeons.|
+|Rental | If a Pokemon faints, you may replace it with select “Rental” options. Only allowed Post-Brock. Pivot areas – Route 3, Mt. Moon, Route ?, Diglett Cave, Rock Tunnel, Route ?, Pokemon Tower.|
+|Migration 1 | Can re-rando early game |
+|Migration 2 | can re-rando safari |
+|Hunter | May kill 2 wilds with each pivot |
+|Gatherer | Allows pickup, 3 shop items pre-brock, and 10 vitamins from Celadon.|
+|Powerlifter | Legal Pure/Huge Power/Macho Brace pre-safari.|
+|Battle Pro | Type boosting held items allowed.|
+
 
 ## Awards
 
