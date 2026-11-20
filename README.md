@@ -87,7 +87,7 @@ Competitors' final score will be their cumulative score consisting of their top 
 | Lance (2)                 |
 | Champ (3)                 |45|
 
-There will be no bonus points during playoffs
+There will be no bonus points during playoffs.
 
 Competitors will do a 2-part linear draft based on their final standings from the Murphleague regular season. Part 1 Roguemon Split will draft 3 types per competitor while part 2 will draft 3 "tune-ups" for the Murphmon portion.
 
@@ -101,7 +101,7 @@ Each type will be available to be drafted twice however, a competitor must have 
 
 ## Duo-Murphmon Draft
 
-The Murphmon draft will similarly draft 3 slots from a pool of 18 "tune-ups" each available to be drafted twice. Once again, a competitor may not draft the same tune-up twice. The 18 tune-up pool can be found below 
+The Murphmon draft will similarly draft 3 slots from a pool of 12 "tune-ups" each available to be drafted three times. Once again, a competitor may not draft the same tune-up twice. The 12 tune-up pool can be found below.
 
 |Competitor|Tune-up 1|Tune-up 2|Tune-up 3|
 |-|-|-|-|
@@ -109,15 +109,15 @@ The Murphmon draft will similarly draft 3 slots from a pool of 18 "tune-ups" eac
 
 |TUNE-UPS|Description|
 |-|-|
-|Martyr 1 | If one of your Pokemon faints, you may continue to run your surviving Pokemon alone until Safari (It must learn cut if needed to progress through the game). Carry ONLY your surviving Pokemon until safari.|
+|Martyr | If one of your Pokemon faints, you may continue to run your surviving Pokemon alone until Safari (It must learn cut if needed to progress through the game). Carry ONLY your surviving Pokemon until safari.|
 |Mulligan Tokens | Retry Battle once upon fainting. May not be used twice on the same run. Must keep visual counter on stream. (3 times) |
 |Clone | May use 2 of the same Pokemon allowed pre-safari and post-safari. Does NOT change pivoting rules.|
 |BST Booster | Allows the use of 600 BST Pokemon including legends.|
-|Going rogue | May heal outside of battle once and caves are no longer dungeons.|
+|Going rogue | May heal outside of battle once per seed (HP, Status, or PP) and caves are no longer dungeons.|
 |Rental | If a Pokemon faints, you may replace it with select “Rental” options. Only allowed Post-Brock. Pivot areas – Route 3, Mt. Moon, Route ?, Diglett Cave, Rock Tunnel, Route ?, Pokemon Tower.|
-|Migration 1 | Can re-rando early game |
-|Migration 2 | can re-rando safari |
-|Hunter | May kill 2 wilds with each pivot |
+|Migration 1 | May re-randomize once prior to the first trainer fight (after lab). Costs 1 seed.|
+|Migration 2 | May re-randomize during the safari pivot process. Costs 1 seed.|
+|Hunter | May kill 2 wilds with each pivot (early game only). |
 |Gatherer | Allows pickup, 3 shop items pre-brock, and 10 vitamins from Celadon.|
 |Powerlifter | Legal Pure/Huge Power/Macho Brace pre-safari.|
 |Battle Pro | Type boosting held items allowed.|
