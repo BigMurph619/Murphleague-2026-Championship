@@ -8,6 +8,8 @@ The Murphleague 2026 Championship will be decided by a 2-part open tournament se
 
 Competitors' final score will be their cumulative score consisting of their top 3 scores from from each mode. (Type 1 Best Score + Type 2 Best Score + Type 3 Best Score + Murphmon #1 Score + Murphmon #2 Score + Murphmon #3 score). Roguemon runs must be completed BEFORE attempting your first Murphmon seeds. You do not HAVE to complete all 75 Roguemon seeds but you may not return once you begin Murphmon seeds.
 
+Tiebreakers: Most Wins, Furthest Murphmon Run, Lowest BST win (if same format), Lowest BST Safari, Coinflip.
+
 ## Scoring Breakdown per mode:
 
 |Roguemon Split|Point Guide|
