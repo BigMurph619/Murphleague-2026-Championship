@@ -97,7 +97,18 @@ Each type will be available to be drafted twice however, a competitor must have 
 
 |Competitor|Type 1|Type 2|Type 3|
 |-|-|-|-|
-|Zoga|Bug|Dragon|Ice|
+|ZogaOak|Type 1|Type 2|Type 3|
+|Reilnur|Type 1|Type 2|Type 3|
+|ThePorofessor|Type 1|Type 2|Type 3|
+|BatCam22|Type 1|Type 2|Type 3|
+|BennyTots|Type 1|Type 2|Type 3|
+|CaptDanieldore|Type 1|Type 2|Type 3|
+|iAmSlammer|Type 1|Type 2|Type 3|
+|Roflmaogamers1|Type 1|Type 2|Type 3|
+|Ceedsy|Type 1|Type 2|Type 3|
+|Bemidgegaming|Type 1|Type 2|Type 3|
+|JeraMazin|Type 1|Type 2|Type 3|
+|CamMan52|Type 1|Type 2|Type 3|
 
 ## Duo-Murphmon Draft
 
@@ -105,7 +116,18 @@ The Murphmon draft will similarly draft 3 slots from a pool of 12 "tune-ups" eac
 
 |Competitor|Tune-up 1|Tune-up 2|Tune-up 3|
 |-|-|-|-|
-|Zoga|BST Booster|Mulligan Token|Clone|
+|Zoga|Tune-up 1|Tune-up 2|Tune-up 3|
+|Reilnur|Tune-up 1|Tune-up 2|Tune-up 3|
+|ThePorofessor|Tune-up 1|Tune-up 2|Tune-up 3|
+|BatCam22|Tune-up 1|Tune-up 2|Tune-up 3|
+|BennyTots|Tune-up 1|Tune-up 2|Tune-up 3|
+|CaptDanieldore|Tune-up 1|Tune-up 2|Tune-up 3|
+|iAmSlammer|Tune-up 1|Tune-up 2|Tune-up 3|
+|Roflmaogamers1|Tune-up 1|Tune-up 2|Tune-up 3|
+|Ceedsy|Tune-up 1|Tune-up 2|Tune-up 3|
+|Bemidgegaming|Tune-up 1|Tune-up 2|Tune-up 3|
+|JeraMazin|Tune-up 1|Tune-up 2|Tune-up 3|
+|CamMan52|Tune-up 1|Tune-up 2|Tune-up 3|
 
 |TUNE-UPS|Description|
 |-|-|
