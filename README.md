@@ -2,7 +2,7 @@
 
 The Murphleague 2026 Championship will be decided by a 2-part open tournament series hosted by [BigMurph619](https://www.twitch.tv/bigmurph619). The playoffs will be held from December 3rd 11:59 PM Eastern - December 20th 11:59 PM Eastern. The breakdown will be as follows:
 
--75 Seeds of Roguemon Split (25 seeds each across 3 types)
+-75 Seeds of Roguemon Split A2 (25 seeds each across 3 types)
 
 -75 Seeds of Firered Murphmon Doubles
 
