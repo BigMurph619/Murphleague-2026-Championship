@@ -137,7 +137,7 @@ The Murphmon draft will similarly draft 3 slots from a pool of 12 "tune-ups" eac
 |Powerlifter | Legal Pure/Huge Power/Macho Brace pre-safari.|
 |Battle Pro | Type boosting held items allowed.|
 |Mulligan Tokens | Retry Battle once upon fainting. May not be used twice on the same run. Must keep visual counter on stream. (3 times) |
-|Clone | May use 2 of the same Pokemon allowed pre-safari and post-safari. Does NOT change pivoting rules.|
+|Clone | May use 2 of the same Pokemon allowed pre-safari and post-safari. Allows up to 2 of each unique pivot early game. Still limited to 5 total pivots. Safari pivoting unchanged.|
 |Going rogue | May heal outside of battle once per seed (HP, Status, or PP) and caves are no longer dungeons.|
 |Migration 1 | May re-randomize once prior to the first trainer fight (after lab). Costs 1 seed.|
 |Migration 2 | May re-randomize during the safari pivot process. Costs 1 seed.|
